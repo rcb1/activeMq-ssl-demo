@@ -1,0 +1,4 @@
+jcg\demo\activemq\ssl\QueueMessageProducer.class
+jcg\demo\activemq\ssl\util\InstallCert.class
+jcg\demo\activemq\ssl\QueueMessageConsumer.class
+jcg\demo\activemq\ssl\util\InstallCert$SavingTrustManager.class
